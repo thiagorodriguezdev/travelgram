@@ -8,8 +8,8 @@
   --text-color-secondary: #6c6c6c;
 
   --font-family: "Poppins", sans-serif;
-  --text-lg: bold 32px/125% var(--font-family);
-  --text: 16px/150% var(--font-family );
-  --text-md: 14px/170% var(--font-family);
-  --text-sm: 12px/170% var(--font-family);
+  --text-lg: bold 3.2rem/125% var(--font-family);
+  --text: 1.6rem/150% var(--font-family);
+  --text-md: 1.4rem/170% var(--font-family);
+  --text-sm: 1.2rem/170% var(--font-family);
 }
